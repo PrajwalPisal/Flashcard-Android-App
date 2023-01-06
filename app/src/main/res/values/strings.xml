@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Flashcards</string>
+    <string name="btnShowAnswer">SHOW ANSWER</string>
+    <string name="question_1">Where is the Great Barrier Reef located?</string>
+    <string name="question_2">Which house was Harry Potter almost sorted into?</string>
+    <string name="btnMarkComplete">MARK COMPLETE</string>
+    <string name="btnRandomCard">RANDOM CARD</string>
+    <string name="btnResetCards">RESET CARDS</string>
+    <string name="cards_finished_text">Cards Finished! You\'re Ready!</string>
+    <string name="log_marker">Log Marker</string>
+
+    <string name="question_compiler">This program converts source code to an executable</string>
+    <string name="answer_compiler">Compiler</string>
+    <string name="question_os">This software manages the hardware and provides services to applications</string>
+    <string name="answer_os">Operating system</string>
+    <string name="question_rdbmbs">What does RDBMS stand for?</string>
+    <string name="answer_rdbms">Relational database management syste</string>
+    <string name="question_https">What does HTTPS stand for?</string>
+    <string name="answer_https">Hyper Text Transfer Protocol</string>
+</resources>
